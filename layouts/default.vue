@@ -21,8 +21,9 @@ export default {
 
 <style>
 html {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Whitney A", "Whitney B";
+  font-style: normal;
+  font-weight: 400;
   font-size: 18px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -79,5 +80,13 @@ aside {
 
 a {
   text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Verlag Cond A", "Verlag Cond B";
+  font-style: normal;
+  font-weight: 300;
 }
 </style>
