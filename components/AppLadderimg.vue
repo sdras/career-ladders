@@ -1,9 +1,11 @@
 <template>
-  <div class="sidebar">
-    <div class="bkimg">
-      <img src="/ladder-bk.jpg" width="100%" />
+  <fragment>
+    <div class="sidebar">
+      <div class="bkimg">
+        <img src="/ladder-bk.jpg" width="100%" />
+      </div>
     </div>
-  </div>
+  </fragment>
 </template>
 
 <script>

@@ -4,7 +4,6 @@
     <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
-    <app-ladderimg></app-ladderimg>
     <Nuxt />
   </main>
 </template>
@@ -13,14 +12,12 @@
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
-import AppLadderimg from "../components/AppLadderimg.vue";
 
 export default {
   components: {
     AppLogo,
     AppTitle,
-    AppNav,
-    AppLadderimg
+    AppNav
   }
 };
 </script>
@@ -39,7 +36,7 @@ html {
   min-height: 100%;
   min-width: 100%;
   box-sizing: border-box;
-  border-left: 20px solid #7e1ecb;
+  border-left: 15px solid #7e1ecb;
   background: #f0f0f0;
   color: #2d2d2d;
 }
