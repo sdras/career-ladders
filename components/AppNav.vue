@@ -1,7 +1,7 @@
 <template>
   <div class="nav">
     <ul>
-      <li><nuxt-link to="/eng">Engineering</nuxt-link></li>
+      <li><nuxt-link to="/engineering">Engineering</nuxt-link></li>
       <li><nuxt-link to="/devex">Developer Experience</nuxt-link></li>
       <li><nuxt-link to="/docs">Documentation</nuxt-link></li>
     </ul>
@@ -24,7 +24,7 @@ ul {
 }
 
 li {
-  padding-right: 20px;
+  padding-right: 40px;
 }
 
 a {

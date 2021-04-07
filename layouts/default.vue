@@ -68,10 +68,10 @@ aside {
   grid-area: 2 / 2 / 3 / 3;
 }
 .sidebar {
-  grid-area: 3 / 1 / 4 / 2;
+  grid-area: 3 / 1 / 6 / 2;
 }
 .content {
-  grid-area: 3 / 2 / 4 / 3;
+  grid-area: 3 / 2 / 6 / 3;
 }
 
 *,
@@ -83,6 +83,7 @@ aside {
 
 a {
   text-decoration: none;
+  color: #7e1ecb;
 }
 
 h1,
@@ -96,5 +97,9 @@ h3 {
 h1 {
   font-size: 120px;
   margin-top: 100px;
+}
+
+p {
+  margin-bottom: 20px;
 }
 </style>
