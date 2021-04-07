@@ -4,6 +4,7 @@
     <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
+    <app-ladderimg></app-ladderimg>
     <Nuxt />
   </main>
 </template>
@@ -12,12 +13,14 @@
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
+import AppLadderimg from "../components/AppLadderimg.vue";
 
 export default {
   components: {
     AppLogo,
     AppTitle,
-    AppNav
+    AppNav,
+    AppLadderimg
   }
 };
 </script>
@@ -48,7 +51,7 @@ main {
   grid-template-columns: 1.5fr 2fr 1fr;
   grid-template-rows: 75px repeat(4, 1fr);
   grid-column-gap: 80px;
-  grid-row-gap: 20px;
+  grid-row-gap: 50px;
 }
 
 aside {
