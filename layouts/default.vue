@@ -1,20 +1,23 @@
-<script>
-import AppHeader from "@/components/AppHeader.vue";
-
-export default {
-  components: {
-    AppHeader
-  }
-};
-</script>
-
 <template>
   <main>
-    <app-header></app-header>
     <aside></aside>
+    <app-logo></app-logo>
+    <app-nav></app-nav>
     <Nuxt />
   </main>
 </template>
+
+<script>
+import AppLogo from "@/components/AppLogo.vue";
+import AppNav from "@/components/AppNav.vue";
+
+export default {
+  components: {
+    AppLogo,
+    AppNav
+  }
+};
+</script>
 
 <style>
 html {
@@ -46,18 +49,25 @@ main {
 
 aside {
   grid-area: 1 / 1 / 6 / 2;
+  color: #f0f0f0;
+  background: #2d2d2d;
 }
-nav {
-  grid-area: 1 / 1 / 2 / 4;
+.logo {
+  grid-area: 1 / 1 / 2 / 2;
+  padding: 20px;
+}
+.navigation {
+  grid-area: 1 / 2 / 2 / 4;
+  padding: 20px;
 }
 .title {
   grid-area: 2 / 2 / 3 / 3;
 }
 .sidebar {
-  grid-area: 3 / 1 / 5 / 2;
+  grid-area: 3 / 1 / 4 / 2;
 }
 .content {
-  grid-area: 3 / 2 / 5 / 3;
+  grid-area: 3 / 2 / 4 / 3;
 }
 
 *,
@@ -67,8 +77,7 @@ nav {
   margin: 0;
 }
 
-aside {
-  color: #f0f0f0;
-  background: #2d2d2d;
+a {
+  text-decoration: none;
 }
 </style>

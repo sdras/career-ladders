@@ -1,7 +1,7 @@
 <template>
-  <nav>
+  <div class="logo">
     <nuxt-link exact to="/">Career Ladders</nuxt-link>
-  </nav>
+  </div>
 </template>
 
 <script>
@@ -9,7 +9,8 @@ export default {};
 </script>
 
 <style scoped>
-nav a {
+.logo a {
+  padding: 20px;
   color: white;
 }
 </style>

@@ -1,6 +1,4 @@
-<template>
-  <aside></aside>
-</template>
+<template> </template>
 
 <script>
 export default {};
