@@ -26,4 +26,8 @@ ul {
 li {
   padding-right: 20px;
 }
+
+a {
+  color: #2d2d2d;
+}
 </style>

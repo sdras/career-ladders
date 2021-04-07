@@ -2,6 +2,7 @@
   <main>
     <aside></aside>
     <app-logo></app-logo>
+    <app-title></app-title>
     <app-nav></app-nav>
     <Nuxt />
   </main>
@@ -9,11 +10,13 @@
 
 <script>
 import AppLogo from "@/components/AppLogo.vue";
+import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
 
 export default {
   components: {
     AppLogo,
+    AppTitle,
     AppNav
   }
 };
@@ -44,7 +47,7 @@ main {
   display: grid;
   grid-template-columns: 1.5fr 2fr 1fr;
   grid-template-rows: 75px repeat(4, 1fr);
-  grid-column-gap: 20px;
+  grid-column-gap: 80px;
   grid-row-gap: 20px;
 }
 
@@ -57,9 +60,9 @@ aside {
   grid-area: 1 / 1 / 2 / 2;
   padding: 20px;
 }
-.navigation {
+.nav {
   grid-area: 1 / 2 / 2 / 4;
-  padding: 20px;
+  padding: 20px 40px;
 }
 .title {
   grid-area: 2 / 2 / 3 / 3;
@@ -88,5 +91,10 @@ h3 {
   font-family: "Verlag Cond A", "Verlag Cond B";
   font-style: normal;
   font-weight: 300;
+}
+
+h1 {
+  font-size: 120px;
+  margin-top: 100px;
 }
 </style>
