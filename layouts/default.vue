@@ -46,7 +46,7 @@ main {
   min-width: 100%;
   display: grid;
   grid-template-columns: 1.5fr 2fr 1fr;
-  grid-template-rows: 75px repeat(4, 1fr);
+  grid-template-rows: 75px 300px repeat(3, 1fr);
   grid-column-gap: 80px;
   grid-row-gap: 50px;
 }
@@ -69,6 +69,17 @@ aside {
 }
 .sidebar {
   grid-area: 3 / 1 / 6 / 2;
+  color: #ccc;
+}
+.sidebar a {
+  color: #ccc;
+}
+ul.sidebar {
+  padding-left: 100px;
+  line-height: 1.6;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
 }
 .content {
   grid-area: 3 / 2 / 6 / 3;
@@ -101,5 +112,11 @@ h1 {
 
 p {
   margin-bottom: 20px;
+}
+
+.active,
+.active a {
+  color: white;
+  font-weight: bold;
 }
 </style>

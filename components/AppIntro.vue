@@ -18,9 +18,9 @@
         Each team in the department has different approaches and roles. Their
         individual career laddering is defined below:
       </p>
-      <h2>&#9656; <nuxt-link to="/engineering">Engineering</nuxt-link></h2>
-      <h2>&#9656; <nuxt-link to="/devex">Developer Experience</nuxt-link></h2>
-      <h2>&#9656; <nuxt-link to="/docs">Documentation</nuxt-link></h2>
+      <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>
+      <h2><nuxt-link to="/devex">Developer Experience ▸</nuxt-link></h2>
+      <h2><nuxt-link to="/docs">Documentation ▸</nuxt-link></h2>
     </div>
   </fragment>
 </template>
@@ -35,7 +35,7 @@ hr {
 }
 
 h2 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 h2:first-of-type {
