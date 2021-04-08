@@ -35,7 +35,7 @@ hr {
 }
 
 h2 {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 h2:first-of-type {

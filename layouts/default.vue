@@ -123,7 +123,15 @@ h2,
 h3 {
   font-family: "Verlag Cond A", "Verlag Cond B";
   font-style: normal;
+}
+
+h1 {
   font-weight: 300;
+}
+
+h2,
+h3 {
+  font-weight: 700;
 }
 
 h1 {

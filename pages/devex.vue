@@ -18,9 +18,6 @@
           <a>Principal Developer Experience Engineer</a>
         </li>
         <li>
-          <a>Principal Developer Experience Engineer</a>
-        </li>
-        <li>
           <a>Distinguished Developer Experience Engineer</a>
         </li>
       </ul>
