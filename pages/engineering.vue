@@ -1,13 +1,15 @@
 <template>
   <section class="maincontent">
-    <ul class="sidebar" v-scroll-spy-active v-scroll-spy-link>
-      <li>
-        <a>Menu 1</a>
-      </li>
-      <li>
-        <a>Menu 2</a>
-      </li>
-    </ul>
+    <div class="sidebar">
+      <ul v-scroll-spy-active v-scroll-spy-link>
+        <li>
+          <a>Menu 1</a>
+        </li>
+        <li>
+          <a>Menu 2</a>
+        </li>
+      </ul>
+    </div>
 
     <div class="content" v-scroll-spy>
       <div>
@@ -183,11 +185,7 @@
 </template>
 
 <script>
-export default {
-  mounted() {
-    this.$nuxt.refresh();
-  }
-};
+export default {};
 </script>
 
 <style scoped></style>

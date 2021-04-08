@@ -74,9 +74,11 @@ section.maincontent {
   grid-template-columns: 1.5fr 2fr;
   grid-template-rows: 1fr;
   grid-column-gap: 80px;
+  position: relative;
+  height: 100%;
 }
 
-ul.sidebar {
+.sidebar ul {
   color: #ccc;
   padding-left: 80px;
   line-height: 1.6;
