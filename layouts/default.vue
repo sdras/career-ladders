@@ -27,18 +27,19 @@ html {
   font-family: "Whitney A", "Whitney B";
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 19px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  min-height: 100%;
+  min-height: 100vh;
   min-width: 100%;
   box-sizing: border-box;
   border-left: 15px solid #7e1ecb;
   background: #f0f0f0;
   color: #2d2d2d;
+  line-height: 1.4;
 }
 
 main {
@@ -55,6 +56,8 @@ aside {
   grid-area: 1 / 1 / 6 / 2;
   color: #f0f0f0;
   background: #2d2d2d;
+  min-height: 100vh;
+  height: 100%;
 }
 .logo {
   grid-area: 1 / 1 / 2 / 2;
@@ -80,6 +83,7 @@ section.maincontent {
 
 .sidebar ul {
   color: #ccc;
+  padding-top: 40px;
   padding-left: 80px;
   line-height: 1.6;
   position: -webkit-sticky;
@@ -90,6 +94,16 @@ section.maincontent {
 .sidebar a {
   color: #ccc;
   cursor: pointer;
+}
+
+.content div {
+  margin-bottom: 50px;
+  padding-top: 30px;
+  border-top: 1px solid #ccc;
+}
+
+.content li {
+  margin-bottom: 5px;
 }
 
 *,
