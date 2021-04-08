@@ -4,6 +4,7 @@
     <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
+    <app-github-corner></app-github-corner>
     <Nuxt />
   </main>
 </template>
@@ -12,12 +13,14 @@
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
+import AppGithubCorner from "@/components/AppGithubCorner.vue";
 
 export default {
   components: {
     AppLogo,
     AppTitle,
-    AppNav
+    AppNav,
+    AppGithubCorner
   }
 };
 </script>
@@ -65,7 +68,7 @@ aside {
 }
 .nav {
   grid-area: 1 / 2 / 2 / 4;
-  padding: 20px 40px;
+  padding: 20px 60px 0 0;
 }
 .title {
   grid-area: 2 / 2 / 3 / 3;

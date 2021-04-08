@@ -13,10 +13,6 @@ export default {};
 </script>
 
 <style scoped>
-.nav {
-  padding: 20px;
-}
-
 ul {
   list-style: none;
   display: flex;
