@@ -46,7 +46,7 @@ main {
   min-width: 100%;
   display: grid;
   grid-template-columns: 1.5fr 2fr 1fr;
-  grid-template-rows: 75px 300px repeat(3, 1fr);
+  grid-template-rows: 75px 250px repeat(3, 1fr);
   grid-column-gap: 80px;
   grid-row-gap: 50px;
 }
@@ -67,22 +67,27 @@ aside {
 .title {
   grid-area: 2 / 2 / 3 / 3;
 }
-.sidebar {
-  grid-area: 3 / 1 / 6 / 2;
-  color: #ccc;
+
+section.maincontent {
+  grid-area: 3 / 1 / 7 / 3;
+  display: grid;
+  grid-template-columns: 1.5fr 2fr;
+  grid-template-rows: 1fr;
+  grid-column-gap: 80px;
 }
-.sidebar a {
-  color: #ccc;
-}
+
 ul.sidebar {
-  padding-left: 100px;
+  color: #ccc;
+  padding-left: 80px;
   line-height: 1.6;
   position: -webkit-sticky;
   position: sticky;
   top: 20px;
 }
-.content {
-  grid-area: 3 / 2 / 6 / 3;
+
+.sidebar a {
+  color: #ccc;
+  cursor: pointer;
 }
 
 *,
@@ -107,7 +112,7 @@ h3 {
 
 h1 {
   font-size: 120px;
-  margin-top: 100px;
+  margin-top: 75px;
 }
 
 p {

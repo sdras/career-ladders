@@ -1,5 +1,5 @@
 <template>
-  <fragment>
+  <section class="maincontent">
     <ul class="sidebar" v-scroll-spy-active v-scroll-spy-link>
       <li>
         <a>Menu 1</a>
@@ -179,11 +179,15 @@
         </p>
       </div>
     </div>
-  </fragment>
+  </section>
 </template>
 
 <script>
-export default {};
+export default {
+  mounted() {
+    this.$nuxt.refresh();
+  }
+};
 </script>
 
 <style scoped></style>
