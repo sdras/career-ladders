@@ -10,7 +10,7 @@ I'm open sourcing my career ladders so that people have a launching-off point. I
 
 ![screenshot of site](https://career-ladders.dev/og-image.jpg "Career Ladders Site")
 
-Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia Havens for always being around to bounce my ideas off of. Thanks to Chad Fowler for showing me the first great example of career laddering!
+Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia Havens for always being around to bounce my ideas off of. Thanks to Chad Fowler for demonstrating a great example of career laddering while I was at Microsoft!
 
 ## Build Setup
 

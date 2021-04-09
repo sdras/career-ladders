@@ -179,7 +179,7 @@
       </div>
       <div>
         <h2 id="staff-dx-engineer">
-          Staff Developer Experience Engineer
+          Staff DX Engineer
           <a class="direct-link" href="#staff-dx-engineer">#</a>
         </h2>
         <ul>
@@ -240,7 +240,7 @@
       </div>
       <div>
         <h2 id="principal-dx-engineer">
-          Principal Developer Experience Engineer
+          Principal DX Engineer
           <a class="direct-link" href="#principal-dx-engineer">#</a>
         </h2>
         <ul>
@@ -308,7 +308,7 @@
       </div>
       <div>
         <h2 id="distinguished-dx-engineer">
-          Distinguished Developer Experience Engineer
+          Distinguished DX Engineer
           <a class="direct-link" href="#distinguished-dx-engineer">#</a>
         </h2>
         <ul>

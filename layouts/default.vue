@@ -163,14 +163,22 @@ h1 {
   margin-top: 75px;
 }
 
-@media screen and (max-width: 1000px) {
-  h1 {
-    font-size: 80px;
-  }
+p {
+  margin-bottom: 20px;
+}
 
+.active,
+.active a {
+  color: white;
+  font-weight: bold;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 1560px) {
   main {
     grid-template-columns: 1.5fr 3fr 20px;
-    grid-template-rows: 75px 150px repeat(3, 1fr) 50px;
+    grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
   }
@@ -182,19 +190,15 @@ h1 {
   }
 }
 
+@media screen and (max-width: 1000px) {
+  h1 {
+    font-size: 80px;
+  }
+}
+
 @media screen and (max-width: 650px) {
   h1 {
     font-size: 40px;
   }
-}
-
-p {
-  margin-bottom: 20px;
-}
-
-.active,
-.active a {
-  color: white;
-  font-weight: bold;
 }
 </style>
