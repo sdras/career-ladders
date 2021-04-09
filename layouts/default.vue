@@ -138,6 +138,10 @@ a {
   color: #7e1ecb;
 }
 
+.italic {
+  font-style: italic;
+}
+
 h1,
 h2,
 h3 {
