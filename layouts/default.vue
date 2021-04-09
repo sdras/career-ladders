@@ -98,7 +98,7 @@ section.maincontent {
   grid-column-gap: 80px;
   position: relative;
   height: 100%;
-  padding-bottom: 100px;
+  padding-bottom: 150px;
 }
 
 .sidebar ul {
