@@ -27,4 +27,8 @@ li {
 a {
   color: #2d2d2d;
 }
+
+.nuxt-link-exact-active {
+  font-weight: bold;
+}
 </style>
