@@ -101,39 +101,30 @@
         </h2>
         <ul>
           <li>
-            Defines and executes on an advocacy plan for specific interest/skill
-            area to grow adoption of our platform.
+            Defines and executes on an execution plan for specific features or
+            internal system maintenance/upgrade.
           </li>
           <li>
             Actively participates in Engineering efforts that help streamline
-            the Developer Experience of our Product.
+            the experience of our Product.
           </li>
           <li>
-            Works on tools and integrations, both internal and external to the
-            company.
+            Helps support the work of their peers by pair programming,
+            reviewing, and providing mentoring.
+          </li>
+          <li>Adjusts well to shifting priorities when necessary.</li>
+          <li>
+            Strives to reduce technical debt, while communicating with teammates
+            about any larger refactor.
           </li>
           <li>
-            Knows the difference between lower and higher standards of quality
-            in Developer Experience by actively trying out other tools in the
-            ecosystem.
+            Works to understand the purpose of the features the team is working
+            on, and helps communicate that purpose to team members. Asks
+            clarifying questions when expectations are unclear.
           </li>
           <li>
-            Effectively communicates these efforts with global communities, but
-            only once they are up to a high quality and standard.
-          </li>
-          <li>
-            Identifies unaddressed issues and resolves, escalates, or finds the
-            appropriate owner to ensure the highest level of quality.
-          </li>
-          <li>Talks, posts, and demos are of high caliber.</li>
-          <li>
-            Trusted advisor and technical liaison between our technical
-            communities and our Product/Sales teams.
-          </li>
-          <li>
-            Understands and represents partner needs around a product category
-            to inform the planning of new features, changes, and need for
-            adoption.
+            When tasks are large, assists the Engineering Manager in scoping
+            work down into smaller, actionable parts.
           </li>
           <li>
             Demonstrates openness to others’ ideas. Adapts their communication
@@ -142,21 +133,10 @@
             efforts.
           </li>
           <li>
-            Adapts their style to most effectively engage and influence the
-            target audience with clarity and persuasiveness. Speaks to our
-            product when opportunity presents itself, while being genuine and
-            clear.
+            Structures code in a manner that anticipates the type of scale and
+            maintenance required for the scope of the work. Considers legibility
+            both in authoring and reviewing pull requests.
           </li>
-          <li>
-            Helps support the work of their peers both on the team and in the
-            community at large, by pair programming, reviewing, and providing
-            mentoring.
-          </li>
-          <li>
-            Gathers customer impressions of products and services and integrates
-            this feedback into decision making.
-          </li>
-          <li>Adjusts well to shifting priorities when necessary.</li>
         </ul>
         <p>
           <em
@@ -178,39 +158,28 @@
             collaboration where necessary to address business goals.
           </li>
           <li>
-            External spoken materials such as speeches and workshops are refined
-            and polished, practiced well so that the least amount of disturbance
-            during presentation occurs and the audience feels respected.
+            Creates and maintains internal documentation for the purpose and
+            structure of the systems they're working on. Carefully documents
+            processes that aren’t clear.
           </li>
           <li>
-            Works on integrations or materials that aid in partnerships within
-            the ecosystem.
-          </li>
-          <li>
-            Demonstrates the ability to speak to our product in a genuine way so
-            that we can connect to potential business leads at conferences and
-            events.
-          </li>
-          <li>
-            Preemptively goes through issues or community forum, helping people
-            out where they can and pointing them to materials that can get them
-            set up properly and smooth the developer experience of their
-            workflow. Notices when issues are reoccuring and creates resources
-            that clarify or solve these issues. Makes sure the resources are
-            easy to locate.
+            Teaches peers how to set up systems and drive execution plans for
+            features and system improvements.
           </li>
           <li>
             Coordinates efforts across the team rather than working in a silo.
             Makes sure that people feel included in varying projects, and that
-            their voices are heard.<br />
-            Speaks to business goals while creating content.
+            their voices are heard.
           </li>
-          <li>Can work on API proposals alongside our Engineering teams.</li>
           <li>
-            While working on Product Engineering rotation, carefully documents
-            processes that aren’t clear. Makes sure to work on the tickets
-            assigned to them and works on the engineering efforts that aren’t
-            glamorous to keep the team moving quickly.
+            Makes sure to work on the tickets assigned to them and works on the
+            engineering efforts that aren’t glamorous to keep the team moving
+            quickly.
+          </li>
+          <li>
+            Manages larger refactors, and/or system upgrades, helps others to do
+            the same or participate. Communicates well with Engineering
+            Management and Product while doing so.
           </li>
         </ul>
         <p>
@@ -229,23 +198,22 @@
         </h2>
         <ul>
           <li>
-            Develops proven systems and approaches to advocacy. Replicates those
-            systems and approaches across the team so that others may learn from
-            and improve on them.
+            Develops proven systems. Replicates those systems and approaches
+            across the team so that others may learn from and improve on them.
           </li>
           <li>
-            Deep industry knowledge and awareness of the competitive landscape.
-            Incorporates competition analysis as appropriate into strategy.
+            Deep industry knowledge and awareness of the technical landscape.
+            Incorporates this analysis as appropriate into strategy.
           </li>
           <li>
-            Not only works on, but leads engineering efforts to refine our
-            developer experience. This can alternatively include mentoring those
-            on the team working on this experience and providing guidance and
-            vision.
+            Not only works on, but leads engineering efforts. This can
+            alternatively include mentoring those on the team working on this
+            experience and providing guidance and vision.
           </li>
           <li>
             Mentors and actively drives the technical skills of the immediate or
-            extended team.
+            extended team with consideration of their career stage and personal
+            trajectory.
           </li>
           <li>
             Removes barriers by working with others around a shared need or
@@ -257,7 +225,7 @@
             Anticipates issues or implications that their ideas would have on
             others, and pursues mutually beneficial strategies.
           </li>
-          <li>Participates thoughtfully in customer meetings on occasion.</li>
+          <li>Participates thoughtfully in meetings.</li>
           <li>
             Sets clear and challenging goals for a portfolio of work, and
             pursues them with enthusiasm and passion. Understands business
@@ -268,11 +236,11 @@
           <li>
             Drives measurable growth by scaling/mentoring teams, affecting
             engineering roadmaps positively, managing key metrics, creating
-            research or programs which will deliver Netlify adoption.
+            research and/or programs.
           </li>
           <li>
-            Partners with other key people or platforms in the industry to drive
-            awareness, adoption, and effectiveness of our tools.
+            Partners with other teams to improve the effectiveness of our
+            internal tooling.
           </li>
           <li>
             Anticipates the needs of those around them. Is respectful in terms
@@ -303,14 +271,7 @@
             or advocating with product for features.
           </li>
           <li>
-            Partners with other products or people in the industry to create
-            meaningful and useful product alliances that enable our customers to
-            be productive, while also considering the execution in terms of
-            business impact such as SEO and site traffic or monthly active
-            developers.
-          </li>
-          <li>
-            Understands the impact on our OKRs of their activity and chooses
+            Understands the impact their activity on our OKRs and chooses
             precisely what they’re working on in terms of strategy of that
             impact without being asked.
           </li>
@@ -324,15 +285,14 @@
             especially in tricky circumstances.
           </li>
           <li>
-            Selects appropriate platform for their material, and builds
-            relationships with people across the industry while doing so.
+            Works on system architecture, thinking through problems and
+            anticipating usage into the future. Builds systems that scale to the
+            appropriate amount.
           </li>
           <li>
-            Effectively communicates when there are sharp edges of the developer
-            experience with our product owners, advocates and teaches the impact
-            of the changes necessary, but can also talk through the caveats of
-            the change. Understands the tradeoffs of product engineering time
-            and their proposed feature next to other priorities.
+            Effectively communicates when there are problems, understanding
+            risks and impact of any proposed changes. Listens well when others
+            express tradeoffs next to other priorities.
           </li>
         </ul>
         <p>
