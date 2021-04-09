@@ -3,22 +3,22 @@
     <div class="sidebar">
       <ul v-scroll-spy-active v-scroll-spy-link>
         <li>
-          <a>Developer Experience Engineer I</a>
+          <a>DX Engineer I</a>
         </li>
         <li>
-          <a>Developer Experience Engineer II</a>
+          <a>DX Engineer II</a>
         </li>
         <li>
-          <a>Senior Developer Experience Engineer</a>
+          <a>Senior DX Engineer</a>
         </li>
         <li>
-          <a>Staff Developer Experience Engineer</a>
+          <a>Staff DX Engineer</a>
         </li>
         <li>
-          <a>Principal Developer Experience Engineer</a>
+          <a>Principal DX Engineer</a>
         </li>
         <li>
-          <a>Distinguished Developer Experience Engineer</a>
+          <a>Distinguished DX Engineer</a>
         </li>
         <li>
           <a>Misc: Tech Lead</a>
@@ -28,9 +28,9 @@
 
     <div class="content" v-scroll-spy>
       <div>
-        <h2 id="developer-experience-engineer-i">
-          Developer Experience Engineer I
-          <a href="#developer-experience-engineer-i">#</a>
+        <h2 id="dx-engineer-i">
+          DX Engineer I
+          <a href="#dx-engineer-i">#</a>
         </h2>
         <ul>
           <li>
@@ -64,9 +64,9 @@
         </p>
       </div>
       <div>
-        <h2 id="developer-experience-engineer-ii">
-          Developer Experience Engineer II
-          <a class="direct-link" href="#developer-experience-engineer-ii">#</a>
+        <h2 id="dx-engineer-ii">
+          DX Engineer II
+          <a class="direct-link" href="#dx-ii">#</a>
         </h2>
         <ul>
           <li>
@@ -106,11 +106,9 @@
         </p>
       </div>
       <div>
-        <h2 id="senior-developer-experience-engineer">
-          Senior Developer Experience Engineer
-          <a class="direct-link" href="#senior-developer-experience-engineer"
-            >#</a
-          >
+        <h2 id="senior-dx-engineer">
+          Senior DX Engineer
+          <a class="direct-link" href="#senior-dx-engineer">#</a>
         </h2>
         <ul>
           <li>
@@ -155,10 +153,9 @@
             efforts.
           </li>
           <li>
-            Adapts their style to most effectively engage and influence the
-            target audience with clarity and persuasiveness. Speaks to our
-            product when opportunity presents itself, while being genuine and
-            clear.
+            Adapts to most effectively engage and influence the target audience
+            with clarity. Speaks to our product when opportunity presents
+            itself, but must be genuine and clear.
           </li>
           <li>
             Helps support the work of their peers both on the team and in the
@@ -181,11 +178,9 @@
         </p>
       </div>
       <div>
-        <h2 id="staff-developer-experience-engineer">
+        <h2 id="staff-dx-engineer">
           Staff Developer Experience Engineer
-          <a class="direct-link" href="#staff-developer-experience-engineer"
-            >#</a
-          >
+          <a class="direct-link" href="#staff-dx-engineer">#</a>
         </h2>
         <ul>
           <li>
@@ -202,9 +197,9 @@
             the ecosystem.
           </li>
           <li>
-            Demonstrates the ability to speak to our product in a genuine way so
-            that we can connect to potential business leads at conferences and
-            events.
+            Demonstrates the ability to speak to our product in a genuine way
+            that outlines the credibility of the best features of the product
+            from a business perspective. Must be truthful.
           </li>
           <li>
             Preemptively goes through issues or community forum, helping people
@@ -217,10 +212,16 @@
           <li>
             Coordinates efforts across the team rather than working in a silo.
             Makes sure that people feel included in varying projects, and that
-            their voices are heard.<br />
+            their voices are heard.
+          </li>
+          <li>
             Speaks to business goals while creating content.
           </li>
-          <li>Can work on API proposals alongside our Engineering teams.</li>
+          <li>
+            Works on API proposals alongside our Product team. Is open to
+            building out examples and use cases to validate concepts, and is
+            also equally open to hearing "no".
+          </li>
           <li>
             While working on Product Engineering rotation, carefully documents
             processes that aren’t clear. Makes sure to work on the tickets
@@ -238,11 +239,9 @@
         </p>
       </div>
       <div>
-        <h2 id="principal-developer-experience-engineer">
+        <h2 id="principal-dx-engineer">
           Principal Developer Experience Engineer
-          <a class="direct-link" href="#principal-developer-experience-engineer"
-            >#</a
-          >
+          <a class="direct-link" href="#principal-dx-engineer">#</a>
         </h2>
         <ul>
           <li>
@@ -285,7 +284,7 @@
           <li>
             Drives measurable growth by scaling/mentoring teams, affecting
             engineering roadmaps positively, managing key metrics, creating
-            research or programs which will deliver Netlify adoption.
+            research or programs which will deliver product adoption.
           </li>
           <li>
             Partners with other key people or platforms in the industry to drive
@@ -308,13 +307,9 @@
         </p>
       </div>
       <div>
-        <h2 id="distinguished-developer-experience-engineer">
+        <h2 id="distinguished-dx-engineer">
           Distinguished Developer Experience Engineer
-          <a
-            class="direct-link"
-            href="#distinguished-developer-experience-engineer"
-            >#</a
-          >
+          <a class="direct-link" href="#distinguished-dx-engineer">#</a>
         </h2>
         <ul>
           <li>
