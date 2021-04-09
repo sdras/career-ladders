@@ -24,7 +24,7 @@ export default {
       {
         hid: "twitter:url",
         name: "twitter:url",
-        content: "https://career-ladders.netlify.app/"
+        content: "https://career-ladders.dev/"
       },
       {
         hid: "twitter:title",
@@ -40,7 +40,7 @@ export default {
       {
         hid: "twitter:image",
         name: "twitter:image",
-        content: "https://career-ladders.netlify.app/og-image.jpg"
+        content: "https://career-ladders.dev/og-image.jpg"
       },
 
       // Open Graph
@@ -54,7 +54,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "https://career-ladders.netlify.app/"
+        content: "https://career-ladders.dev/"
       },
       {
         hid: "og:title",
@@ -70,12 +70,12 @@ export default {
       {
         hid: "og:image",
         property: "og:image",
-        content: "https://career-ladders.netlify.app/og-image.jpg"
+        content: "https://career-ladders.dev/og-image.jpg"
       },
       {
         hid: "og:image:secure_url",
         property: "og:image:secure_url",
-        content: "https://career-ladders.netlify.app/og-image.jpg"
+        content: "https://career-ladders.dev/og-image.jpg"
       },
       {
         hid: "og:image:alt",

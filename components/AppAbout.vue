@@ -35,7 +35,8 @@
     </p>
     <p>
       Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia
-      Havens for always being around to bounce my ideas off of!
+      Havens for always being around to bounce my ideas off of. Thanks to Chad
+      Fowler for showing me the first great example of career laddering!
     </p>
   </div>
 </template>

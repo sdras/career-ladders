@@ -1,6 +1,6 @@
 # Career Ladders
 
-Site is here: [Career Ladders Site](https://career-ladders.netlify.app/)
+Site is here: [Career Ladders Site](https://career-ladders.dev/)
 
 I have an article about how I put these into practice coming out soon!
 
@@ -8,9 +8,9 @@ It's been more than a year since [I promised Sam Julien](https://twitter.com/sam
 
 I'm open sourcing my career ladders so that people have a launching-off point. I do not have this all figured out, please feel free to iterate, or give feedback, or submit a PR. Full transparency, I don't have a ton of time for maintenance right now, and am maintaining a _lot_ of repos, so if your PR goes unnoticed for a while, that's why. I also may reject a PR if it's not the way I personally want to structure something, but that's ok! It's alright for us to have different ways of creating laddering, in fact, I would encourage one to make some changes depending on your org in particular, we don't have to all be the same, and probably shouldn't be.
 
-![screenshot of site](https://career-ladders.netlify.app/og-image.jpg "Career Ladders Site")
+![screenshot of site](https://career-ladders.dev/og-image.jpg "Career Ladders Site")
 
-Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia Havens for always being around to bounce my ideas off of!
+Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia Havens for always being around to bounce my ideas off of. Thanks to Chad Fowler for showing me the first great example of career laddering!
 
 ## Build Setup
 
