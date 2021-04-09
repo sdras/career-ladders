@@ -20,6 +20,9 @@
         <li>
           <a>Distinguished Developer Experience Engineer</a>
         </li>
+        <li>
+          <a>Misc: Tech Lead</a>
+        </li>
       </ul>
     </div>
 
@@ -196,7 +199,7 @@
           </li>
           <li>
             Works on integrations or materials that aid in partnerships within
-            the ecosystem
+            the ecosystem.
           </li>
           <li>
             Demonstrates the ability to speak to our product in a genuine way so
@@ -325,7 +328,7 @@
             meaningful and useful product alliances that enable our customers to
             be productive, while also considering the execution in terms of
             business impact such as SEO and site traffic or monthly active
-            developers
+            developers.
           </li>
           <li>
             Understands the impact on our OKRs of their activity and chooses
@@ -361,6 +364,46 @@
             experience (in software engineering and/or advocacy).</em
           >
         </p>
+      </div>
+      <div>
+        <h2 id="tech-lead">
+          Misc: Tech Lead <a class="direct-link" href="#tech-lead">#</a>
+        </h2>
+        <p>
+          A Tech Lead is responsible for leading a particular project, and
+          responsible for the quality of its technical deliverables.
+        </p>
+        <p class="italic">
+          Anyone can be a tech lead at any stage in their career.
+        </p>
+        <ul>
+          <li>
+            Involves a good amount of project management- keeping the trains
+            running on time, keeping folks unblocked, and raising concerns to
+            management when folks are stuck.
+          </li>
+          <li>May at times involve mentoring folks and pair programming.</li>
+          <li>
+            Still involves coding/participation and IC work on a project. This
+            might also mean picking up slack to fill in gaps to round out a
+            project.
+          </li>
+          <li>
+            Helps organize and facilitate productive feedback and feedback
+            sessions with stakeholders.
+          </li>
+          <li>
+            Creates alignment with the overall project goals and how the
+            execution is carried out. Brings up conflicts in a productive
+            manner. Also, commits to the product vision once set.
+          </li>
+          <li>
+            A tech lead gently enforces standards- culture and attitudes
+            included. If the team has misalignment, a tech lead spends time
+            alongside the Engineering Manager to guide them towards
+            productivity.
+          </li>
+        </ul>
       </div>
     </div>
   </section>
