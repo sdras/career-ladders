@@ -1,5 +1,6 @@
 <template>
   <main>
+    <app-social-head></app-social-head>
     <aside></aside>
     <app-logo></app-logo>
     <app-title></app-title>
@@ -10,6 +11,7 @@
 </template>
 
 <script>
+import AppSocialHead from "@/components/AppSocialHead.vue";
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
@@ -17,6 +19,7 @@ import AppGithubCorner from "@/components/AppGithubCorner.vue";
 
 export default {
   components: {
+    AppSocialHead,
     AppLogo,
     AppTitle,
     AppNav,
@@ -62,14 +65,17 @@ aside {
   min-height: 100vh;
   height: 100%;
 }
+
 .logo {
   grid-area: 1 / 1 / 2 / 2;
   padding: 20px;
 }
+
 .nav {
   grid-area: 1 / 2 / 2 / 4;
   padding: 20px 60px 0 0;
 }
+
 .title {
   grid-area: 2 / 2 / 3 / 3;
 }
