@@ -1,7 +1,7 @@
 <template>
   <footer>
     <p>
-      This project is made with 🌮 by Sarah Drasner,
+      Open sourced with 🌮 by Sarah Drasner,
       <a href="https://twitter.com/sarah_edo">@sarah_edo (twitter)</a> &
       <a href="https://github.com/sdras">@sdras (github)</a>
       <br />Hosted with <a href="https://bit.ly/2G29YwK">Netlify</a>

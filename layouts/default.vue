@@ -163,6 +163,31 @@ h1 {
   margin-top: 75px;
 }
 
+@media screen and (max-width: 1000px) {
+  h1 {
+    font-size: 80px;
+  }
+
+  main {
+    grid-template-columns: 1.5fr 3fr 20px;
+    grid-template-rows: 75px 150px repeat(3, 1fr) 50px;
+    grid-column-gap: 40px;
+    grid-row-gap: 30px;
+  }
+
+  section.maincontent {
+    grid-template-columns: 1.5fr 3fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 40px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
 p {
   margin-bottom: 20px;
 }
