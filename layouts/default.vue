@@ -1,29 +1,29 @@
 <template>
   <main>
-    <app-social-head></app-social-head>
     <aside></aside>
     <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
     <app-github-corner></app-github-corner>
     <Nuxt />
+    <app-footer></app-footer>
   </main>
 </template>
 
 <script>
-import AppSocialHead from "@/components/AppSocialHead.vue";
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
 import AppGithubCorner from "@/components/AppGithubCorner.vue";
+import AppFooter from "@/components/AppFooter.vue";
 
 export default {
   components: {
-    AppSocialHead,
     AppLogo,
     AppTitle,
     AppNav,
-    AppGithubCorner
+    AppGithubCorner,
+    AppFooter
   }
 };
 </script>
@@ -53,7 +53,7 @@ main {
   min-width: 100%;
   display: grid;
   grid-template-columns: 1.5fr 2fr 1fr;
-  grid-template-rows: 75px 250px repeat(3, 1fr);
+  grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
   grid-column-gap: 80px;
   grid-row-gap: 50px;
 }
@@ -80,6 +80,16 @@ aside {
   grid-area: 2 / 2 / 3 / 3;
 }
 
+footer {
+  grid-area: 6 / 1 / 7 / 4;
+  background: #2d2d2d;
+  width: 100%;
+  padding: 20px 30px;
+  color: white;
+  text-align: center;
+  margin-top: -50px;
+}
+
 section.maincontent {
   grid-area: 3 / 1 / 7 / 3;
   display: grid;
@@ -88,6 +98,7 @@ section.maincontent {
   grid-column-gap: 80px;
   position: relative;
   height: 100%;
+  padding-bottom: 100px;
 }
 
 .sidebar ul {
