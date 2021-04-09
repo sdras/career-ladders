@@ -16,6 +16,12 @@
       to me that they don't know where to start.
     </p>
     <p>
+      <strong
+        >I have an article about how I put these into practice coming out
+        soon!</strong
+      >
+    </p>
+    <p>
       I'm open sourcing my career ladders so that people have a launching-off
       point. I do not have this all figured out, please feel free to iterate, or
       give feedback, or submit a PR. Full transparency, I don't have a ton of
