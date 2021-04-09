@@ -34,33 +34,27 @@
         </h2>
         <ul>
           <li>
-            Vocal champion for a technical community's interests within the
-            company. Has a keen eye to the landscape and context of our users.
+            Completes clearly-defined tasks or communicates when something is
+            blocking.
           </li>
           <li>
-            Advocate for our technologies along many axis: open source,
-            conferences, technical posts, demos, and social media.
+            Works to learn the relevant technologies and systems in place,
+            actively maintains and extends the system.
           </li>
           <li>
             Communicates internally and externally in a respectful manner.
           </li>
-          <li>Develops sample code and/or demos.</li>
           <li>
-            Helps debug technical problems developers and operators encounter
-            with our platforms, reporting back to product or PRing fixes as
-            appropriate to the context.
+            Makes an impact by delivering features, refactoring existing code,
+            or updating systems enable other developers to be successful.
           </li>
           <li>
-            Submits bug reports for issues in our products &amp; services.
+            Helps debug technical problems. Submits issues so that we can
+            document and improve our service.
           </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a Bachelor’s degree
-            and a minimum of 2 years of related experience; or an advanced
-            degree without experience; or equivalent experience (in software
-            engineering and/or advocacy).</em
-          >
+          <em><strong>Experience</strong>: No previous experience required.</em>
         </p>
       </div>
       <div>
@@ -70,26 +64,23 @@
         </h2>
         <ul>
           <li>
-            Works on engineering initiatives that address concerns regarding
-            improving the developer experience.
+            Works on engineering initiatives that drive a larger featureset,
+            while being careful to not create technical debt in the process.
           </li>
           <li>
-            Writes technical posts that at once answer common questions/address
-            technical concerns that might inhibit developers from working with
-            our products with ease and also pay mindful attention to our site’s
-            SEO and key metric goals.
+            Preemptively scans issue backlogs. Actions include but are not
+            limited to: familiarizing themselves with pain points in the system,
+            applying relevant labels and triaging, closing them via pull request
+            or other means.
           </li>
           <li>
-            Represents the company by delivering technical talks at conferences,
-            meetups, podcasts, and hackathons.
+            Is considerate of others on the team and tries to support other
+            people in their work.
           </li>
           <li>
-            Proficient in the appropriate use of social media to improve
-            awareness of product and technology.
-          </li>
-          <li>
-            Pays attention to how the landscape affects the product and makes
-            suggestions or files issues in reference to this greater context.
+            Works to become profient in giving great reviews of their peers
+            work. This includes being respectful, thorough, thoughtful,
+            flexible, and not pedantic.
           </li>
           <li>
             Listens to the priorities and concerns of others, and acknowledges
@@ -98,16 +89,14 @@
         </ul>
         <p>
           <em
-            ><strong>Experience</strong>: Typically requires a minimum of 4
-            years of related experience with a Bachelor’s degree; or 2 years and
-            a Master’s degree; or a PhD without experience; or equivalent work
-            experience.</em
+            ><strong>Experience</strong>: Typically requires a minimum of 2
+            years of related experience, can be less with a degree.</em
           >
         </p>
       </div>
       <div>
         <h2 id="senior-engineer">
-          Senior Developer Experience Engineer
+          Senior Engineer
           <a class="direct-link" href="#senior-engineer">#</a>
         </h2>
         <ul>
@@ -171,8 +160,8 @@
         </ul>
         <p>
           <em
-            ><strong>Experience</strong>: Typically requires a minimum of 7
-            years of related experience with a Bachelor’s degree; or 5 years and
+            ><strong>Experience</strong>: Typically requires a minimum of 5
+            years of related experience with a Bachelor’s degree; or 4 years and
             a Master’s degree; or a PhD with 3 years experience; or equivalent
             experience (in software engineering and/or advocacy).</em
           >
