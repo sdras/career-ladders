@@ -48,6 +48,13 @@ html {
   line-height: 1.4;
 }
 
+body {
+  overflow-x: hidden;
+  position: relative;
+  top: 0;
+  bottom: 0;
+}
+
 main {
   min-height: 100vh;
   min-width: 100%;
@@ -175,9 +182,9 @@ p {
 
 /* Responsive */
 
-@media screen and (max-width: 1560px) {
+@media screen and (max-width: 1400px) {
   main {
-    grid-template-columns: 1.5fr 3fr 20px;
+    grid-template-columns: 1.5fr 3fr 100px;
     grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
@@ -193,12 +200,59 @@ p {
 @media screen and (max-width: 1000px) {
   h1 {
     font-size: 80px;
+    font-weight: bold;
   }
 }
 
 @media screen and (max-width: 650px) {
   h1 {
-    font-size: 40px;
+    font-size: 50px;
+  }
+
+  main {
+    grid-template-columns: 3fr 1fr !important;
+    grid-template-rows: 85px 200px repeat(3, 1fr) 80px;
+    grid-column-gap: 0 !important;
+    grid-row-gap: 0;
+  }
+
+  aside {
+    display: none;
+  }
+
+  .logo {
+    grid-area: 1 / 1 / 2 / 2;
+    background: #2d2d2d;
+  }
+  .nav {
+    grid-area: 1 / 2 / 2 / 3;
+    padding: 20px 20px 0 0;
+    background: #2d2d2d;
+    color: white;
+  }
+  .title {
+    grid-area: 2 / 1 / 3 / 3;
+    padding: 0 20px;
+    width: calc(100vw - 20px);
+  }
+  section.maincontent {
+    padding: 40px 20px 100px;
+    grid-area: 3 / 1 / 6 / 3;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0;
+    grid-row-gap: 20px;
+    max-width: calc(100vw - 20px);
+  }
+  .sidebar {
+    display: none;
+  }
+  .content {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+  footer {
+    grid-area: 6 / 1 / 7 / 3;
+    max-width: calc(100vw - 20px);
   }
 }
 </style>
