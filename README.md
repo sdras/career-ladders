@@ -2,7 +2,7 @@
 
 Site is here: [Career Ladders Site](https://career-ladders.dev/)
 
-I have an article about how I put these into practice coming out soon!
+I have an article about how I put these into practice coming out soon! It's very important to not just put up career ladders and call it a day, but rather, put them into practice with a system that your employees can trust.
 
 It's been more than a year since [I promised Sam Julien](https://twitter.com/samjulien/status/1265713280095531008?s=20) that I would open source the career laddering I've developed as an Engineering Manager and VP. The purpose of open sourcing them is _not_ to give impression that this is the one true way to do career laddering, or that these are perfect and there's nothing to improve upon here. There is some value in sharing them, though, in that many folks have mentioned to me that they don't know where to start.
 

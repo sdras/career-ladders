@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>
-      It's been more than a year since
+      It's been about a year since
       <a
         href="https://twitter.com/samjulien/status/1265713280095531008?s=20"
         target="_blank"
@@ -20,6 +20,9 @@
         >I have an article about how I put these into practice coming out
         soon!</strong
       >
+      It's very important to not just put up career ladders and call it a day,
+      but rather, put them into practice with a system that your employees can
+      trust.
     </p>
     <p>
       I'm open sourcing my career ladders so that people have a launching-off
