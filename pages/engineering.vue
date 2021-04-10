@@ -185,6 +185,9 @@
             quickly.
           </li>
           <li>
+            Proactively communicates issues and addresses necessary trade-offs.
+          </li>
+          <li>
             Manages larger refactors, and/or system upgrades, helps others to do
             the same or participate. Communicates well with Engineering
             Management and Product while doing so.
@@ -246,7 +249,6 @@
             objectives and incorporates these into this body of work. Critically
             reviews multiple plans and adjusts as needed.
           </li>
-          <li>Proactively communicates and addresses necessary trade-offs.</li>
           <li>
             Drives measurable growth by scaling/mentoring teams, affecting
             engineering roadmaps positively, managing key metrics, creating
