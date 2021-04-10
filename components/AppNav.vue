@@ -19,7 +19,7 @@
       </svg>
     </div>
     <div class="nav-display" v-if="isDisplaying">
-      <ul>
+      <ul @click="isOpen = !isOpen">
         <li><nuxt-link to="/engineering/">Engineering</nuxt-link></li>
         <li><nuxt-link to="/devex/">Developer Experience</nuxt-link></li>
         <li><nuxt-link to="/docs/">Documentation</nuxt-link></li>
@@ -36,6 +36,11 @@ export default {
       matchMedia: null,
       isOpen: false
     };
+  },
+  methods: {
+    isNavClicked(e) {
+      console.log(e.target.childNodes);
+    }
   },
   computed: {
     isDisplaying() {
@@ -93,7 +98,7 @@ a {
   .nav-display {
     top: 80px;
     right: 0;
-    position: fixed;
+    position: absolute;
     z-index: 300;
     width: 300px;
     background: #2d2d2d;
