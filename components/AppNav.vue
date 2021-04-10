@@ -2,6 +2,7 @@
   <div class="nav">
     <div class="nav-icon">
       <svg
+        @click="isOpen = !isOpen"
         height="50"
         width="50"
         viewBox="0 0 100 100"
@@ -17,12 +18,14 @@
         </g>
       </svg>
     </div>
-    <ul v-if="!matchMedia">
-      <li><nuxt-link to="/engineering/">Engineering</nuxt-link></li>
-      <li><nuxt-link to="/devex/">Developer Experience</nuxt-link></li>
-      <li><nuxt-link to="/docs/">Documentation</nuxt-link></li>
-      <li><nuxt-link to="/about/">About</nuxt-link></li>
-    </ul>
+    <div class="nav-display" v-if="isDisplaying">
+      <ul>
+        <li><nuxt-link to="/engineering/">Engineering</nuxt-link></li>
+        <li><nuxt-link to="/devex/">Developer Experience</nuxt-link></li>
+        <li><nuxt-link to="/docs/">Documentation</nuxt-link></li>
+        <li><nuxt-link to="/about/">About</nuxt-link></li>
+      </ul>
+    </div>
   </div>
 </template>
 
@@ -30,8 +33,18 @@
 export default {
   data() {
     return {
-      matchMedia: null
+      matchMedia: null,
+      isOpen: false
     };
+  },
+  computed: {
+    isDisplaying() {
+      if (this.matchMedia) {
+        return this.isOpen ? true : false;
+      } else {
+        return true;
+      }
+    }
   },
   mounted() {
     this.matchMedia = window.matchMedia("(max-width: 650px)").matches;
@@ -61,15 +74,40 @@ a {
 
 .nav-icon {
   width: 50px;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 650px) {
   .nav-icon {
     display: none;
   }
+}
+
+@media screen and (max-width: 650px) {
+  .nav-display {
+    top: 80px;
+    right: 0;
+    position: fixed;
+    z-index: 300;
+    width: 300px;
+    background: #2d2d2d;
+    color: #f0f0f0;
+  }
 
   ul {
-    display: none !important;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px 40px 40px;
+    line-height: 1.8;
+  }
+
+  a {
+    color: #f0f0f0;
+  }
+
+  .nuxt-link-exact-active {
+    font-weight: bold;
+    color: #fff;
   }
 }
 </style>
