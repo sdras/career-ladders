@@ -99,6 +99,10 @@
           Senior Engineer
           <a class="direct-link" href="#senior-engineer">#</a>
         </h2>
+        <p class="italic">
+          At this point, a person is mastering how effective they can be as an
+          individual contributor.
+        </p>
         <ul>
           <li>
             Defines and executes on an execution plan for specific features or
@@ -152,6 +156,10 @@
           Staff Engineer
           <a class="direct-link" href="#staff-engineer">#</a>
         </h2>
+        <p class="italic">
+          At this point, the majority of one's time is spent scaling their own
+          skills to help others.
+        </p>
         <ul>
           <li>
             Actively participates in meetings, and creates cross-team
@@ -196,6 +204,10 @@
           Principal Engineer
           <a class="direct-link" href="#principal-engineer">#</a>
         </h2>
+        <p class="italic">
+          At this point, one is helping others be the best that they can be,
+          removing themselves and meeting others where they are.
+        </p>
         <ul>
           <li>
             Develops proven systems. Replicates those systems and approaches
@@ -206,9 +218,8 @@
             Incorporates this analysis as appropriate into strategy.
           </li>
           <li>
-            Not only works on, but leads engineering efforts. This can
-            alternatively include mentoring those on the team working on this
-            experience and providing guidance and vision.
+            Not only leads, but ideates new engineering efforts. Provides
+            guidance and vision.
           </li>
           <li>
             Mentors and actively drives the technical skills of the immediate or
@@ -225,7 +236,10 @@
             Anticipates issues or implications that their ideas would have on
             others, and pursues mutually beneficial strategies.
           </li>
-          <li>Participates thoughtfully in meetings.</li>
+          <li>
+            Beyond participating in meetings, thoughtfully creates and leads
+            meetings where helpful.
+          </li>
           <li>
             Sets clear and challenging goals for a portfolio of work, and
             pursues them with enthusiasm and passion. Understands business

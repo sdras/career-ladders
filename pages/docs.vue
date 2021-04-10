@@ -103,6 +103,10 @@
           Senior Technical Writer
           <a class="direct-link" href="#senior-technical-writer">#</a>
         </h2>
+        <p class="italic">
+          At this point, a person is mastering how effective they can be as an
+          individual contributor.
+        </p>
         <ul>
           <li>
             Acutely aware of our audience and defers voice and tone to meet the
@@ -155,6 +159,10 @@
           Staff Technical Writer
           <a class="direct-link" href="#staff-technical-writer">#</a>
         </h2>
+        <p class="italic">
+          At this point, the majority of one's time is spent scaling their own
+          skills to help others.
+        </p>
         <ul>
           <li>
             Conducts competitive tear downs and illuminates new patterns and
@@ -195,6 +203,10 @@
           Principal Technical Writer
           <a class="direct-link" href="#principal-technical-writer">#</a>
         </h2>
+        <p class="italic">
+          At this point, one is helping others be the best that they can be,
+          removing themselves and meeting others where they are.
+        </p>
         <ul>
           <li>
             Develops proven systems and approaches to technical writing.
