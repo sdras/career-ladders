@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="cat">
     <a
       href="https://github.com/sdras/career-ladders"
       class="github-corner"
@@ -45,12 +45,9 @@
     transform: rotate(10deg);
   }
 }
-@media (max-width: 500px) {
-  .github-corner:hover .octo-arm {
-    animation: none;
-  }
-  .github-corner .octo-arm {
-    animation: octocat-wave 560ms ease-in-out;
+@media (max-width: 650px) {
+  .cat {
+    display: none;
   }
 }
 </style>

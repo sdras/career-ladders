@@ -39,6 +39,11 @@
       Fowler for demonstrating a great example of career laddering while I was
       at Microsoft!
     </p>
+    <p>
+      <a href="https://github.com/sdras/career-ladders"
+        ><strong>This repo is open sourced on my GitHub.</strong></a
+      >
+    </p>
   </div>
 </template>
 

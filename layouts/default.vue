@@ -210,7 +210,7 @@ p {
   }
 
   main {
-    grid-template-columns: 3fr 1fr !important;
+    grid-template-columns: 3fr 80px !important;
     grid-template-rows: 85px 200px repeat(3, 1fr) 80px;
     grid-column-gap: 0 !important;
     grid-row-gap: 0;
@@ -223,6 +223,7 @@ p {
   .logo {
     grid-area: 1 / 1 / 2 / 2;
     background: #2d2d2d;
+    padding: 20px 10px;
   }
   .nav {
     grid-area: 1 / 2 / 2 / 3;
