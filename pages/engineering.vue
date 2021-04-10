@@ -34,7 +34,7 @@
         </h2>
         <ul>
           <li>
-            Completes clearly-defined tasks or communicates when something is
+            Completes clearly-defined tasks and communicates when something is
             blocking.
           </li>
           <li>
@@ -78,7 +78,7 @@
             people in their work.
           </li>
           <li>
-            Works to become profient in giving great reviews of their peers
+            Works to become proficient in giving great reviews of their peers
             work. This includes being respectful, thorough, thoughtful,
             flexible, and not pedantic.
           </li>
