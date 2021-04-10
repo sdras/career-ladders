@@ -90,7 +90,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 2
-            years of related experience, can be less with a degree.</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -144,9 +144,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 5
-            years of related experience with a Bachelor’s degree; or 4 years and
-            a Master’s degree; or a PhD with 3 years experience; or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -196,9 +194,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 8
-            years of related experience with a Bachelor’s degree; or 6 years and
-            a Master’s degree; or a PhD with 4 years experience; or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -268,9 +264,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 10
-            years of related experience with a Bachelor's degree or 8 years and
-            a Master's degree or a PhD with 5 years experience, or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -281,13 +275,13 @@
         </h2>
         <ul>
           <li>
-            Figures out the industry-wide pieces of functionality that are
-            missing that can unlock potential for customer growth at scale and
+            Identifies industry-wide pieces of functionality that are missing
+            that can unlock potential for customer growth at scale and
             implements them, either through engineering tasks, open source work,
             or advocating with product for features.
           </li>
           <li>
-            Understands the impact their activity on our OKRs and chooses
+            Understands the impact their activity on company OKRs and chooses
             precisely what they’re working on in terms of strategy of that
             impact without being asked.
           </li>
@@ -314,9 +308,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 12
-            years of related experience with a Bachelor's degree or 10 years and
-            a Master's degree or a PhD with 7 years experience, or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -363,9 +355,3 @@
     </div>
   </section>
 </template>
-
-<script>
-export default {};
-</script>
-
-<style scoped></style>

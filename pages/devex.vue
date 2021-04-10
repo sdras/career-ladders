@@ -56,10 +56,8 @@
         </ul>
         <p>
           <em
-            ><strong>Experience</strong>: Typically requires a Bachelor’s degree
-            and a minimum of 2 years of related experience; or an advanced
-            degree without experience; or equivalent experience (in software
-            engineering and/or advocacy).</em
+            ><strong>Experience</strong>: Typically requires a minimum of 2
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -99,9 +97,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 4
-            years of related experience with a Bachelor’s degree; or 2 years and
-            a Master’s degree; or a PhD without experience; or equivalent work
-            experience.</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -174,10 +170,8 @@
         </ul>
         <p>
           <em
-            ><strong>Experience</strong>: Typically requires a minimum of 7
-            years of related experience with a Bachelor’s degree; or 5 years and
-            a Master’s degree; or a PhD with 3 years experience; or equivalent
-            experience (in software engineering and/or advocacy).</em
+            ><strong>Experience</strong>: Typically requires a minimum of 6
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -240,9 +234,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 8
-            years of related experience with a Bachelor’s degree; or 6 years and
-            a Master’s degree; or a PhD with 4 years experience; or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -310,9 +302,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 10
-            years of related experience with a Bachelor's degree or 8 years and
-            a Master's degree or a PhD with 5 years experience, or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
@@ -364,9 +354,7 @@
         <p>
           <em
             ><strong>Experience</strong>: Typically requires a minimum of 12
-            years of related experience with a Bachelor's degree or 10 years and
-            a Master's degree or a PhD with 7 years experience, or equivalent
-            experience (in software engineering and/or advocacy).</em
+            years of professional experience.</em
           >
         </p>
       </div>
