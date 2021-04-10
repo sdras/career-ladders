@@ -45,7 +45,7 @@
     transform: rotate(10deg);
   }
 }
-@media (max-width: 650px) {
+@media (max-width: 900px) {
   .cat {
     display: none;
   }

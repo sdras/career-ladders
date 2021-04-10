@@ -182,7 +182,7 @@ p {
 
 /* Responsive */
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1450px) {
   main {
     grid-template-columns: 1.5fr 3fr 100px;
     grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
@@ -197,14 +197,23 @@ p {
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
   h1 {
     font-size: 80px;
     font-weight: bold;
   }
+
+  .sidebar ul {
+    padding-left: 40px;
+  }
+
+  .nav {
+    font-size: 17px;
+    padding: 35px 50px 0 0;
+  }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
   h1 {
     font-size: 50px;
   }

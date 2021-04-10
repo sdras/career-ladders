@@ -47,7 +47,7 @@ export default {
     }
   },
   mounted() {
-    this.matchMedia = window.matchMedia("(max-width: 650px)").matches;
+    this.matchMedia = window.matchMedia("(max-width: 900px)").matches;
   }
 };
 </script>
@@ -77,13 +77,19 @@ a {
   cursor: pointer;
 }
 
-@media screen and (min-width: 650px) {
+@media screen and (max-width: 1200px) {
+  li {
+    padding-right: 30px;
+  }
+}
+
+@media screen and (min-width: 900px) {
   .nav-icon {
     display: none;
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
   .nav-display {
     top: 80px;
     right: 0;
