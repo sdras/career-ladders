@@ -409,6 +409,11 @@
             productivity.
           </li>
         </ul>
+        <p>
+          Note: Developer Experience is a hybrid of Engineering and Developer
+          Advocacy/Developer Relations. If you are using these ladders for
+          Advocacy, you may need to remove some Engineering tasks.
+        </p>
       </div>
     </div>
   </section>

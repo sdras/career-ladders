@@ -127,14 +127,13 @@
             clarifying questions when expectations are unclear.
           </li>
           <li>
-            When tasks are large, assists the Engineering Manager in scoping
-            work down into smaller, actionable parts.
+            When tasks are large, works on scoping work down into smaller,
+            actionable parts.
           </li>
           <li>
             Demonstrates openness to others’ ideas. Adapts their communication
-            style to most effectively communicate with the target audience.
-            Effectively and accurately shares credit for ideas and collaborative
-            efforts.
+            style to most effectively communicate. Effectively and accurately
+            shares credit for ideas and collaborative efforts.
           </li>
           <li>
             Structures code in a manner that anticipates the type of scale and
@@ -180,17 +179,18 @@
             their voices are heard.
           </li>
           <li>
-            Makes sure to work on the tickets assigned to them and works on the
-            engineering efforts that aren’t glamorous to keep the team moving
-            quickly.
+            Keeps the team moving quickly by working on engineering efforts that
+            aren’t glamorous.
           </li>
           <li>
             Proactively communicates issues and addresses necessary trade-offs.
+            Takes ownership of issues.
           </li>
           <li>
             Manages larger refactors, and/or system upgrades, helps others to do
-            the same or participate. Communicates well with Engineering
-            Management and Product while doing so.
+            the same or participate. Able to estimate scope of work, and when
+            those estimates are off, coordinates with stakeholders like Product
+            Management to address risks, and take ownership.
           </li>
         </ul>
         <p>
