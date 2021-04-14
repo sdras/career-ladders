@@ -3,6 +3,34 @@
     <div class="content">
       <hr />
       <p>
+        Career laddering is a system used to show what expectations are at
+        different levels of a role, a purpose of which can be defining how one
+        might be promoted. I’ve personally found being transparency about
+        expectations helpful as an Engineering Leader, but is only one
+        supportive piece of a whole. It’s critical that career laddering docs
+        are just one tool embedded in a deeper process.
+      </p>
+      <p>
+        <strong
+          ><a
+            href="https://css-tricks.com/the-importance-of-career-laddering/"
+            target="_blank"
+            >This writeup explains a bit more about that process ></a
+          ></strong
+        >
+      </p>
+      <p>
+        It’s not important for an Engineering Leader to use career laddering or
+        my process. It is, however,
+        <span class="italic">very important</span> that an Engineering Manager
+        is clear with their employees about expectations and direction.
+      </p>
+      <hr />
+      <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>
+      <h2><nuxt-link to="/devex">Developer Experience ▸</nuxt-link></h2>
+      <h2><nuxt-link to="/docs">Documentation ▸</nuxt-link></h2>
+      <h3 class="italic">tl;dr</h3>
+      <p>
         Roles up to and including Senior, ladders are constructed around
         becoming the best at what one does that one might personally be.
       </p>
@@ -14,13 +42,6 @@
         At Principal and beyond, you are trying to help others be the best that
         they can be, removing yourself and meeting others where they are.
       </p>
-      <p>
-        Each team in the department has different approaches and roles. Their
-        individual career laddering is defined below:
-      </p>
-      <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>
-      <h2><nuxt-link to="/devex">Developer Experience ▸</nuxt-link></h2>
-      <h2><nuxt-link to="/docs">Documentation ▸</nuxt-link></h2>
     </div>
   </fragment>
 </template>
@@ -35,14 +56,10 @@ hr {
 }
 
 h2 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
-h2:first-of-type {
-  margin-top: 40px;
-}
-
-a {
-  margin-left: 10px;
+h2:last-of-type {
+  margin-bottom: 30px;
 }
 </style>
