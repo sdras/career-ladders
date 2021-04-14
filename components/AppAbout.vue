@@ -17,9 +17,14 @@
     </p>
     <p>
       <strong
-        >I have an article about how I put these into practice coming out
-        soon!</strong
+        ><a
+          href="https://css-tricks.com/the-importance-of-career-laddering/"
+          target="_blank"
+          >This writeup explains a bit more about that process ></a
+        ></strong
       >
+    </p>
+    <p>
       It's very important to not just put up career ladders and call it a day,
       but rather, put them into practice with a system that your employees can
       trust.
