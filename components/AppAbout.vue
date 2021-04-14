@@ -8,12 +8,7 @@
         >I promised Sam Julien</a
       >
       that I would open source the career laddering I've developed as an
-      Engineering Manager and VP. The purpose of open sourcing them is
-      <span class="italic">not</span>
-      to give impression that this is the one true way to do career laddering,
-      or that these are perfect and there's nothing to improve upon here. There
-      is some value in sharing them, though, in that many folks have mentioned
-      to me that they don't know where to start.
+      Engineering Manager and VP.
     </p>
     <p>
       <strong
