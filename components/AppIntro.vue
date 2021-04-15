@@ -20,8 +20,8 @@
         >
       </p>
       <p>
-        It’s not important for an Engineering Leader to use career laddering or
-        my process. It is, however,
+        It’s not important for an Engineering Leader to use my process. It is,
+        however,
         <span class="italic">very important</span> that an Engineering Manager
         is clear with their employees about expectations and direction.
       </p>
