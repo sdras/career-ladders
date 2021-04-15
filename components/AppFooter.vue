@@ -21,5 +21,7 @@ a:active {
 
 footer {
   font-size: 0.9rem;
+  position: relative;
+  z-index: 1000;
 }
 </style>
