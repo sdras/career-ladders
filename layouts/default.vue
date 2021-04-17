@@ -182,7 +182,7 @@ p {
 
 /* Responsive */
 
-@media screen and (max-width: 1450px) {
+@media screen and (max-width: 1460px) {
   main {
     grid-template-columns: 1.5fr 3fr 100px;
     grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
