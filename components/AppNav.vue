@@ -46,8 +46,24 @@ export default {
       }
     }
   },
+  methods: {
+    debounce(func, timeout = 175) {
+      let timer;
+      return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => { func.apply(this, args); }, timeout);
+      };
+    },
+    setMatchMedia() {
+      this.matchMedia = window.matchMedia("(max-width: 900px)").matches;
+    }
+  },
   mounted() {
-    this.matchMedia = window.matchMedia("(max-width: 900px)").matches;
+    this.setMatchMedia()
+    window.addEventListener("resize", this.debounce(this.setMatchMedia));
+  },
+  unmounted() {
+    window.removeEventListener("resize", this.debounce(this.setMatchMedia));
   }
 };
 </script>
