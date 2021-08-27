@@ -42,6 +42,15 @@
         At Principal and beyond, you are trying to help others be the best that
         they can be, removing yourself and meeting others where they are.
       </p>
+      <hr />
+      
+       <p>
+          If you're interested in more resources for managers, I wrote a book:
+          <br />
+          <a href="https://www.engmanagement.dev/" target="_blank"><strong>Engineering Management for the Rest of Us</strong></a>
+        </p>
+        <a href="https://www.engmanagement.dev/" target="_blank"><img src="emfrtu.png" class="eng-book" /></a>
+      </a>
     </div>
   </fragment>
 </template>
@@ -61,5 +70,11 @@ h2 {
 
 h2:last-of-type {
   margin-bottom: 30px;
+}
+
+img {
+  opacity: 0.9;
+  width: 100%;
+  max-width: 400px;
 }
 </style>
