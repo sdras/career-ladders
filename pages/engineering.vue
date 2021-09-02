@@ -46,7 +46,7 @@
           </li>
           <li>
             Makes an impact by delivering features, refactoring existing code,
-            or updating systems enable other developers to be successful.
+            or updating systems enabling other developers to be successful.
           </li>
           <li>
             Helps debug technical problems. Submits issues so that we can
