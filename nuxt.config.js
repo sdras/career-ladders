@@ -85,9 +85,16 @@ export default {
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "preconnect", href: "https://fonts.googleapis.com" },
+      {
+        rel: "preconnect",
+        href: "https://fonts.gstatic.com",
+        crossorigin: "anonymous"
+      },
       {
         rel: "stylesheet",
-        href: "https://cloud.typography.com/7626114/6154772/css/fonts.css"
+        href:
+          "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;700&family=Inter:wght@400;700&display=swap"
       }
     ]
   },
