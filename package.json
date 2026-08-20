@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "node-sass": "^5.0.0",
     "nuxt": "^2.15.3",
+    "sass": "^1.32.13",
     "sass-loader": "^11.0.1",
     "vue-fragment": "^1.5.2",
     "vue2-scrollspy": "^2.3.1"

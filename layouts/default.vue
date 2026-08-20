@@ -30,7 +30,8 @@ export default {
 
 <style>
 html {
-  font-family: "Whitney A", "Whitney B";
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 19px;
@@ -152,7 +153,8 @@ a {
 h1,
 h2,
 h3 {
-  font-family: "Verlag Cond A", "Verlag Cond B";
+  font-family: "Barlow Condensed", "Inter", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, Arial, sans-serif;
   font-style: normal;
 }
 
@@ -168,6 +170,7 @@ h3 {
 h1 {
   font-size: 120px;
   margin-top: 75px;
+  text-wrap: nowrap;
 }
 
 p {
