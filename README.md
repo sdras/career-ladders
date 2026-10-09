@@ -12,21 +12,74 @@ I'm open sourcing my career ladders so that people have a launching-off point. I
 
 Special thanks to Lauren Sell, Dizzy Smith, Jason Lengstorf, and Dalia Havens for always being around to bounce my ideas off of. Thanks to Chad Fowler for demonstrating a great example of career laddering while I was at Microsoft!
 
-## Build Setup
+## Setup
+
+Make sure to install dependencies:
 
 ```bash
-# install dependencies
-$ yarn install
+# npm
+npm install
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+# pnpm
+pnpm install
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+# yarn
+yarn install
 
-# generate static project
-$ yarn generate
+# bun
+bun install
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

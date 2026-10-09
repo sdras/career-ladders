@@ -1,20 +1,18 @@
 {
   "name": "career-ladders",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "core-js": "^3.9.1",
-    "node-sass": "^5.0.0",
-    "nuxt": "^2.15.3",
-    "sass-loader": "^11.0.1",
-    "vue-fragment": "^1.5.2",
-    "vue2-scrollspy": "^2.3.1"
-  },
-  "devDependencies": {}
+    "nuxt": "^4.6.0",
+    "vue": "^3.5.43",
+    "vue-router": "^5.4.0"
+  }
 }
